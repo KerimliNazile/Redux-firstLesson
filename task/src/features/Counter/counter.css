@@ -1,0 +1,18 @@
+button{
+    background-color: rgb(47, 154, 154);
+   margin-left: 30px;
+   margin-right: 30px;
+  
+   &:hover{
+    background-color: rgb(253, 243, 229);
+    transition: 0.5s;
+   }
+}
+.say{
+    font-size: 25px;
+    &:hover{
+        color: red;
+        transition: 0.5s;
+    }
+    
+}
