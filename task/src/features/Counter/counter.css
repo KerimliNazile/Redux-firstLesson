@@ -1,18 +1,24 @@
 button{
-    background-color: rgb(47, 154, 154);
-   margin-left: 30px;
+   background-color: chocolate;
    margin-right: 30px;
-  
+  margin-left: 30px;
    &:hover{
-    background-color: rgb(253, 243, 229);
+    background-color: rgb(246, 205, 149);
     transition: 0.5s;
    }
 }
-.say{
+.count{
     font-size: 25px;
     &:hover{
         color: red;
         transition: 0.5s;
     }
     
+
+}
+
+
+
+.body{
+    background-color: cornflowerblue;
 }
